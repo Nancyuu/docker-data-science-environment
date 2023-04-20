@@ -1,0 +1,6 @@
+# =============================================================================
+# List of packages to install, format:
+#   packageName==packageVersion
+# =============================================================================
+# we can check the build-in packages by code: !pip freeze
+# emoji==2.1.0
