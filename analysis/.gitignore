@@ -1,6 +1,0 @@
-# Ignore dotfiles and dotdirectories
-.*
-
-# Ignore autosave information
-**/.ipynb_checkpoints/
-
